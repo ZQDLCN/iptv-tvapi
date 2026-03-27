@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-27 06:22:46,http://iptvapi.zqdl.org/migu.php
+2026-03-27 18:41:57,http://iptvapi.zqdl.org/migu.php
 
 📺央视频道,#genre#
 CCTV-1,http://iptvapi.zqdl.org/migu.php
@@ -10,18 +10,18 @@ CCTV-3,http://iptvapi.zqdl.org/migu.php
 CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV-4,http://iptvapi.zqdl.org/migu.php
 CCTV-4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
-CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1774616400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-7eedfc47893764409ae7f074dd5461f6&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-5,http://iptvapi.zqdl.org/migu.php
 CCTV-5,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-5+,http://iptvapi.zqdl.org/migu.php
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV-6,http://iptvapi.zqdl.org/migu.php
-CCTV-6,http://107.150.60.122/live/cctv6hd.m3u8
 CCTV-6,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
 CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
-CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+CCTV-6,http://107.150.60.122/live/cctv6hd.m3u8
 CCTV-7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
+CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 CCTV-8,http://iptvapi.zqdl.org/migu.php
 CCTV-8,http://107.150.60.122/live/cctv8k.m3u8
 CCTV-8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
@@ -50,8 +50,8 @@ CCTV-17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 📡卫视频道,#genre#
 广东卫视,http://iptvapi.zqdl.org/migu.php
 广东卫视,http://107.150.60.122/live/gdwshd.m3u8
-湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 湖南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd
+湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
@@ -82,9 +82,7 @@ CCTV-17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 大湾区卫视,http://iptvapi.zqdl.org/migu.php
 
 ☘️浙江频道,#genre#
-浙江新闻,http://101.66.198.40:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 象山综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
-余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
@@ -104,9 +102,10 @@ CCTV-17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 淮安新闻综合,http://iptvapi.zqdl.org/migu.php
 连云港新闻综合,http://iptvapi.zqdl.org/migu.php
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
-镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358
+镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
 
 ☘️辽宁频道,#genre#
 
@@ -194,7 +193,6 @@ CCTV-5+,http://iptvapi.zqdl.org/migu.php
 
 🪁动画频道,#genre#
 优漫卡通,http://iptvapi.zqdl.org/migu.php
-金鹰卡通,http://101.66.198.12:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🎮游戏频道,#genre#
 
