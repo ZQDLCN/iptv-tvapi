@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-12 06:47:25,http://iptvapi.zqdl.org/migu.php
+2026-05-12 19:48:58,http://iptvapi.zqdl.org/migu.php
 
 📺央视频道,#genre#
 CCTV-1,http://iptvapi.zqdl.org/migu.php
@@ -16,6 +16,7 @@ CCTV-4,http://iptvapi.zqdl.org/migu.php
 CCTV-4,http://39.107.69.13/631780421
 CCTV-4,http://219.150.217.41:6610/PLTV1/100/index.m3u8?icpid=dxrm1
 CCTV-4,http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1778590800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-98a314126ea7075d521533604e03d588&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-5,http://iptvapi.zqdl.org/migu.php
 CCTV-5,http://39.107.69.13/641886683
 CCTV-5,http://219.150.217.41:6610/PLTV1/120/index.m3u8?icpid=dxrm1
@@ -62,7 +63,6 @@ CETV-2,http://39.107.69.13/923287211
 CETV-4,http://39.107.69.13/923287339
 
 💰央视付费频道,#genre#
-女性时尚,http://192.151.150.154/live/nxss.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://iptvapi.zqdl.org/migu.php
@@ -78,8 +78,8 @@ CETV-4,http://39.107.69.13/923287339
 重庆卫视,http://39.107.69.13/738910914
 东方卫视,http://iptvapi.zqdl.org/migu.php
 东方卫视,http://39.107.69.13/651632648
-东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视,http://192.151.150.154/live/dfwshd.m3u8
+东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东南卫视,http://39.107.69.13/849116810
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://219.150.217.41:6610/PLTV1/1500/index.m3u8?icpid=dxrm1
@@ -105,8 +105,8 @@ CETV-4,http://39.107.69.13/923287339
 辽宁卫视,http://iptvapi.zqdl.org/migu.php
 辽宁卫视,http://39.107.69.13/630291707
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
-内蒙古卫视,http://107.150.60.122/live/nmgws.m3u8
 内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
+内蒙古卫视,http://107.150.60.122/live/nmgws.m3u8
 宁夏卫视,http://39.107.69.13/738910535
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 青海卫视,http://39.107.69.13/947472506
@@ -188,8 +188,8 @@ CETV-4,http://39.107.69.13/923287339
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 镇江新闻综合,http://39.107.69.13/639731783
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
-镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
 靖江新闻综合,rtmp://visit.jjbctv.com:1935/live/xwzhmb
 
 ☘️辽宁频道,#genre#
