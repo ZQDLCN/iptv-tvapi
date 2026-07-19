@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-19 06:41:39,http://iptvapi.zqdl.org/migu.php
+2026-07-19 19:06:42,http://iptvapi.zqdl.org/migu.php
 
 📺央视频道,#genre#
 CCTV-1,http://iptvapi.zqdl.org/migu.php
@@ -8,20 +8,18 @@ CCTV-1,http://219.150.217.41:6610/PLTV1/40/index.m3u8?icpid=dxrm1
 CCTV-2,http://iptvapi.zqdl.org/migu.php
 CCTV-2,http://39.107.69.13/631780532
 CCTV-2,http://219.150.217.41:6610/PLTV1/60/index.m3u8?icpid=dxrm1
-CCTV-2,http://125.42.148.25:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://iptvapi.zqdl.org/migu.php
 CCTV-3,http://39.107.69.13/624878271
 CCTV-3,http://219.150.217.41:6610/PLTV1/80/index.m3u8?icpid=dxrm1
+CCTV-3,http://204.12.221.218:8181/3m1080p/cctv3.m3u8
 CCTV-4,http://iptvapi.zqdl.org/migu.php
 CCTV-4,http://39.107.69.13/631780421
 CCTV-4,http://219.150.217.41:6610/PLTV1/100/index.m3u8?icpid=dxrm1
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1784422800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0ba7a23ac05a1dab83f955d52d4316a2&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1784422800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-027afd30966f3b5d83efe3cb8c72547a&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,http://125.42.148.232:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1784466000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-41d736e36201d430b130dd8120ebbb1b&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1784466000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-61e63fb5b5f9c150f8ecfe5cf859ff67&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-5,http://iptvapi.zqdl.org/migu.php
 CCTV-5,http://39.107.69.13/641886683
 CCTV-5,http://219.150.217.41:6610/PLTV1/120/index.m3u8?icpid=dxrm1
-CCTV-5,http://125.42.148.232:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://iptvapi.zqdl.org/migu.php
 CCTV-5+,http://39.107.69.13/641886773
 CCTV-5+,http://219.150.217.41:6610/PLTV1/380/index.m3u8?icpid=dxrm1
@@ -55,8 +53,6 @@ CCTV-14,http://iptvapi.zqdl.org/migu.php
 CCTV-14,http://39.107.69.13/624878440
 CCTV-14,http://219.150.217.41:6610/PLTV1/300/index.m3u8?icpid=dxrm1
 CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
-CCTV-14,http://125.42.148.232:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14,http://125.42.148.25:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://iptvapi.zqdl.org/migu.php
 CCTV-15,http://39.107.69.13/673168223
 CCTV-15,http://219.150.217.41:6610/PLTV1/320/index.m3u8?icpid=dxrm1
@@ -92,19 +88,16 @@ CETV-4,http://39.107.69.13/923287339
 河南卫视,http://iptvapi.zqdl.org/migu.php
 河南卫视,http://39.107.69.13/790187291
 河南卫视,http://1.94.31.214/php/hntv.php
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://125.42.148.25:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://125.42.148.232:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://39.107.69.13/947472500
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江苏卫视,http://iptvapi.zqdl.org/migu.php
 江苏卫视,http://39.107.69.13/623899368
-江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
-江苏卫视,http://192.151.150.154/live/jswshd.m3u8
-江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
 江苏卫视,http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
+江苏卫视,http://192.151.150.154/live/jswshd.m3u8
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
+江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
+江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
 江西卫视,http://iptvapi.zqdl.org/migu.php
 江西卫视,http://39.107.69.13/783847495
 辽宁卫视,http://iptvapi.zqdl.org/migu.php
