@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-26 06:45:15,http://iptvapi.zqdl.org/migu.php
+2026-07-26 19:15:41,http://iptvapi.zqdl.org/migu.php
 
 📺央视频道,#genre#
 CCTV-1,http://iptvapi.zqdl.org/migu.php
@@ -15,11 +15,11 @@ CCTV-3,http://219.150.217.41:6610/PLTV1/80/index.m3u8?icpid=dxrm1
 CCTV-4,http://iptvapi.zqdl.org/migu.php
 CCTV-4,http://39.107.69.13/631780421
 CCTV-4,http://219.150.217.41:6610/PLTV1/100/index.m3u8?icpid=dxrm1
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1785028500-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-5d42a56b6281bd394a40f1f47fc3658b&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1785028500-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-c8eddf1ae39bba26f1333f08d70e76d5&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1785071700-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-1954981698c99f759bde8573c28ade20&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-5,http://iptvapi.zqdl.org/migu.php
 CCTV-5,http://39.107.69.13/641886683
 CCTV-5,http://219.150.217.41:6610/PLTV1/120/index.m3u8?icpid=dxrm1
+CCTV-5,http://221.193.168.22:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://iptvapi.zqdl.org/migu.php
 CCTV-5+,http://39.107.69.13/641886773
 CCTV-5+,http://219.150.217.41:6610/PLTV1/380/index.m3u8?icpid=dxrm1
@@ -29,12 +29,14 @@ CCTV-6,http://219.150.217.41:6610/PLTV1/140/index.m3u8?icpid=dxrm1
 CCTV-6,http://45.192.97.170:8880/play/607.m3u8
 CCTV-7,http://219.150.217.41:6610/PLTV1/160/index.m3u8?icpid=dxrm1
 CCTV-7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
+CCTV-7,http://221.193.168.22:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://iptvapi.zqdl.org/migu.php
 CCTV-8,http://39.107.69.13/624878356
 CCTV-8,http://219.150.217.41:6610/PLTV1/180/index.m3u8?icpid=dxrm1
 CCTV-9,http://iptvapi.zqdl.org/migu.php
 CCTV-9,http://39.107.69.13/673168140
 CCTV-9,http://219.150.217.41:6610/PLTV1/200/index.m3u8?icpid=dxrm1
+CCTV-9,http://221.193.168.22:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://iptvapi.zqdl.org/migu.php
 CCTV-10,http://39.107.69.13/624878405
 CCTV-10,http://219.150.217.41:6610/PLTV1/220/index.m3u8?icpid=dxrm1
@@ -43,6 +45,8 @@ CCTV-11,http://iptvapi.zqdl.org/migu.php
 CCTV-11,http://39.107.69.13/667987558
 CCTV-11,http://219.150.217.41:6610/PLTV1/240/index.m3u8?icpid=dxrm1
 CCTV-11,http://204.12.221.218:8181/3m1080p/cctv11.m3u8
+CCTV-11,http://121.19.134.253:808/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://221.193.168.22:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://iptvapi.zqdl.org/migu.php
 CCTV-12,http://39.107.69.13/673168185
 CCTV-12,http://219.150.217.41:6610/PLTV1/260/index.m3u8?icpid=dxrm1
@@ -76,6 +80,7 @@ CETV-4,http://39.107.69.13/923287339
 北京卫视,http://39.107.69.13/630287636
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://39.107.69.13/947472496
+湖北卫视,http://121.19.134.253:808/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://39.107.69.13/738910914
 东方卫视,http://iptvapi.zqdl.org/migu.php
 东方卫视,http://39.107.69.13/651632648
@@ -89,22 +94,21 @@ CETV-4,http://39.107.69.13/923287339
 河南卫视,http://iptvapi.zqdl.org/migu.php
 河南卫视,http://39.107.69.13/790187291
 河南卫视,http://1.94.31.214/php/hntv.php
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://39.107.69.13/947472500
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江苏卫视,http://iptvapi.zqdl.org/migu.php
 江苏卫视,http://39.107.69.13/623899368
-江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
-江苏卫视,http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
 江苏卫视,http://192.151.150.154/live/jswshd.m3u8
+江苏卫视,http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
+江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
 江西卫视,http://iptvapi.zqdl.org/migu.php
 江西卫视,http://39.107.69.13/783847495
 辽宁卫视,http://iptvapi.zqdl.org/migu.php
 辽宁卫视,http://39.107.69.13/630291707
-内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=3e7340acf8869ac1c7dad1bb836dcd35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 宁夏卫视,http://39.107.69.13/738910535
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 青海卫视,http://39.107.69.13/947472506
@@ -121,6 +125,7 @@ CETV-4,http://39.107.69.13/923287339
 三沙卫视,http://39.107.69.13/961023778
 西藏卫视,http://219.150.217.41:6610/PLTV1/1640/index.m3u8?icpid=dxrm1
 新疆卫视,http://219.150.217.41:6610/PLTV1/1620/index.m3u8?icpid=dxrm1
+新疆卫视,http://121.19.134.253:808/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️广东频道,#genre#
 广东珠江,https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
@@ -362,8 +367,6 @@ CHC动作电影,http://iptvapi.zqdl.org/migu.php
 CHC动作电影,http://39.107.69.13/644368714
 NewTV惊悚悬疑,http://45.192.97.170:8880/play/2199.m3u8
 纬来电影,http://67.220.67.246:2347/livehttpplay?channel_id=20199
-靖天映画,http://45.192.97.170:8880/play/1335.m3u8
-靖天戏剧,http://45.192.97.170:8880/play/1330.m3u8
 天映经典,https://o11.163189.xyz/stream/live/ccm/
 东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
 
@@ -393,5 +396,4 @@ CCTV-15,http://219.150.217.41:6610/PLTV1/320/index.m3u8?icpid=dxrm1
 
 🏛经典剧场,#genre#
 西游记,http://173.208.234.146/live/vlxyj.m3u8
-水浒传,http://173.208.234.146/live/vlshz.m3u8
 闯关东,http://173.208.234.146/live/lbchuangguandong.m3u8
