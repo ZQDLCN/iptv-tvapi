@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-20 18:22:05,http://iptvapi.zqdl.org/migu.php
+2026-08-21 06:19:04,http://iptvapi.zqdl.org/migu.php
 
 📺央视频道,#genre#
 CCTV-1,http://iptvapi.zqdl.org/migu.php
@@ -14,8 +14,8 @@ CCTV-3,http://219.150.217.41:6610/PLTV1/80/index.m3u8?icpid=dxrm1
 CCTV-4,http://iptvapi.zqdl.org/migu.php
 CCTV-4,http://39.107.69.13/631780421
 CCTV-4,http://219.150.217.41:6610/PLTV1/100/index.m3u8?icpid=dxrm1
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1787230800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0eb4e3055dea4da27dd18ad8944f726b&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1787230800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-2e05ddbc230ddd43e500abea926e25ea&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1787274000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-453daab0dab036c1a6d0b239c829736e&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1787274000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-077618b16df7524ef3c3b1f0b76401b6&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-5,http://iptvapi.zqdl.org/migu.php
 CCTV-5,http://39.107.69.13/641886683
 CCTV-5,http://219.150.217.41:6610/PLTV1/120/index.m3u8?icpid=dxrm1
@@ -30,10 +30,10 @@ CCTV-7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
 CCTV-8,http://iptvapi.zqdl.org/migu.php
 CCTV-8,http://39.107.69.13/624878356
 CCTV-8,http://219.150.217.41:6610/PLTV1/180/index.m3u8?icpid=dxrm1
+CCTV-8,http://211.92.102.44:9901/tsfile/live/0008_2.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-9,http://iptvapi.zqdl.org/migu.php
 CCTV-9,http://39.107.69.13/673168140
 CCTV-9,http://219.150.217.41:6610/PLTV1/200/index.m3u8?icpid=dxrm1
-CCTV-9,http://27.39.122.2:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://iptvapi.zqdl.org/migu.php
 CCTV-10,http://39.107.69.13/624878405
 CCTV-10,http://219.150.217.41:6610/PLTV1/220/index.m3u8?icpid=dxrm1
@@ -71,7 +71,6 @@ CETV-4,http://39.107.69.13/923287339
 北京卫视,http://39.107.69.13/630287636
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://39.107.69.13/947472496
-安徽卫视,http://27.39.122.2:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://39.107.69.13/738910914
 东方卫视,http://iptvapi.zqdl.org/migu.php
 东方卫视,http://39.107.69.13/651632648
@@ -91,12 +90,13 @@ CETV-4,http://39.107.69.13/923287339
 江苏卫视,http://39.107.69.13/623899368
 江苏卫视,http://192.151.150.154/live/jswshd.m3u8
 江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
+江苏卫视,http://211.92.102.44:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://iptvapi.zqdl.org/migu.php
 江西卫视,http://39.107.69.13/783847495
 辽宁卫视,http://iptvapi.zqdl.org/migu.php
 辽宁卫视,http://39.107.69.13/630291707
-内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=3e7340acf8869ac1c7dad1bb836dcd35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 宁夏卫视,http://39.107.69.13/738910535
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 青海卫视,http://39.107.69.13/947472506
@@ -116,6 +116,7 @@ CETV-4,http://39.107.69.13/923287339
 ☘️广东频道,#genre#
 广东珠江,https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
+广东体育,http://222.128.55.152:9080/live/gdty.m3u8
 广东卫视,http://iptvapi.zqdl.org/migu.php
 广东卫视,http://39.107.69.13/608831231
 大湾区卫视,http://iptvapi.zqdl.org/migu.php
@@ -143,7 +144,6 @@ CETV-4,http://39.107.69.13/923287339
 
 ☘️北京频道,#genre#
 北京卡酷少儿,http://204.12.221.218:8181/3m1080p/btvkk.m3u8
-北京卡酷少儿,http://111.59.139.82:11888/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 
 ☘️上海频道,#genre#
@@ -152,7 +152,6 @@ CETV-4,http://39.107.69.13/923287339
 上海第一财经,http://iptvapi.zqdl.org/migu.php
 上海第一财经,http://39.107.69.13/608780988
 东方影视,http://iptvapi.zqdl.org/migu.php
-东方影视,http://38.75.136.137:98/gslb/dsdqpub/shdsjhd.m3u8?auth=testpub
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 
 ☘️重庆频道,#genre#
