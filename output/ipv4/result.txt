@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-22 06:16:22,http://iptvapi.zqdl.org/migu.php
+2026-08-22 18:15:18,http://iptvapi.zqdl.org/migu.php
 
 📺央视频道,#genre#
 CCTV-1,http://iptvapi.zqdl.org/migu.php
@@ -14,10 +14,11 @@ CCTV-3,http://219.150.217.41:6610/PLTV1/80/index.m3u8?icpid=dxrm1
 CCTV-4,http://iptvapi.zqdl.org/migu.php
 CCTV-4,http://39.107.69.13/631780421
 CCTV-4,http://219.150.217.41:6610/PLTV1/100/index.m3u8?icpid=dxrm1
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1787360400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-73b483e3f257cf05854887615baef8fa&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1787403600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-96b67572d3b7b18d8f4ae961b138f676&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-5,http://iptvapi.zqdl.org/migu.php
 CCTV-5,http://39.107.69.13/641886683
 CCTV-5,http://219.150.217.41:6610/PLTV1/120/index.m3u8?icpid=dxrm1
+CCTV-5,http://27.39.122.2:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://iptvapi.zqdl.org/migu.php
 CCTV-5+,http://39.107.69.13/641886773
 CCTV-5+,http://219.150.217.41:6610/PLTV1/380/index.m3u8?icpid=dxrm1
@@ -35,9 +36,11 @@ CCTV-9,http://219.150.217.41:6610/PLTV1/200/index.m3u8?icpid=dxrm1
 CCTV-10,http://iptvapi.zqdl.org/migu.php
 CCTV-10,http://39.107.69.13/624878405
 CCTV-10,http://219.150.217.41:6610/PLTV1/220/index.m3u8?icpid=dxrm1
+CCTV-10,http://27.39.122.2:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://iptvapi.zqdl.org/migu.php
 CCTV-11,http://39.107.69.13/667987558
 CCTV-11,http://219.150.217.41:6610/PLTV1/240/index.m3u8?icpid=dxrm1
+CCTV-11,http://27.39.122.2:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://iptvapi.zqdl.org/migu.php
 CCTV-12,http://39.107.69.13/673168185
 CCTV-12,http://219.150.217.41:6610/PLTV1/260/index.m3u8?icpid=dxrm1
@@ -50,6 +53,7 @@ CCTV-14,http://219.150.217.41:6610/PLTV1/300/index.m3u8?icpid=dxrm1
 CCTV-15,http://iptvapi.zqdl.org/migu.php
 CCTV-15,http://39.107.69.13/673168223
 CCTV-15,http://219.150.217.41:6610/PLTV1/320/index.m3u8?icpid=dxrm1
+CCTV-15,http://118.122.144.115:8888/newlive/live/hls/16/live.m3u8
 CCTV-17,http://iptvapi.zqdl.org/migu.php
 CCTV-17,http://39.107.69.13/673168256
 CCTV-17,http://219.150.217.41:6610/PLTV1/360/index.m3u8?icpid=dxrm1
@@ -69,6 +73,7 @@ CETV-4,http://39.107.69.13/923287339
 北京卫视,http://39.107.69.13/630287636
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://39.107.69.13/947472496
+黑龙江卫视,http://27.39.122.2:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://39.107.69.13/738910914
 东方卫视,http://iptvapi.zqdl.org/migu.php
 东方卫视,http://39.107.69.13/651632648
@@ -77,8 +82,11 @@ CETV-4,http://39.107.69.13/923287339
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://219.150.217.41:6610/PLTV1/1500/index.m3u8?icpid=dxrm1
 广西卫视,http://219.150.217.41:6610/PLTV1/1440/index.m3u8?icpid=dxrm1
+贵州卫视,http://27.39.122.2:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://120.198.86.186:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://39.107.69.13/947472502
 河北卫视,http://39.107.69.13/962042070
+河北卫视,http://27.39.122.2:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://iptvapi.zqdl.org/migu.php
 河南卫视,http://39.107.69.13/790187291
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
@@ -349,6 +357,7 @@ CHC家庭影院,http://iptvapi.zqdl.org/migu.php
 CHC家庭影院,http://39.107.69.13/644368373
 CHC动作电影,http://iptvapi.zqdl.org/migu.php
 CHC动作电影,http://39.107.69.13/644368714
+CHC动作电影,http://27.39.122.2:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 纬来电影,http://67.220.67.246:2347/livehttpplay?channel_id=20199
 天映经典,https://o11.163189.xyz/stream/live/ccm/
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
