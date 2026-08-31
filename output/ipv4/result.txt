@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-31 08:05:16,http://iptvapi.zqdl.org/migu.php
+2026-09-01 01:21:08,http://iptvapi.zqdl.org/migu.php
 
 📺央视频道,#genre#
 CCTV-1,http://iptvapi.zqdl.org/migu.php
@@ -14,7 +14,6 @@ CCTV-3,http://219.150.217.41:6610/PLTV1/80/index.m3u8?icpid=dxrm1
 CCTV-4,http://iptvapi.zqdl.org/migu.php
 CCTV-4,http://39.107.69.13/631780421
 CCTV-4,http://219.150.217.41:6610/PLTV1/100/index.m3u8?icpid=dxrm1
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1788152400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-d35109ce4951336e2758b0b5fa4a3c83&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-5,http://iptvapi.zqdl.org/migu.php
 CCTV-5,http://39.107.69.13/641886683
 CCTV-5,http://219.150.217.41:6610/PLTV1/120/index.m3u8?icpid=dxrm1
@@ -71,6 +70,7 @@ CETV-4,http://39.107.69.13/923287339
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://39.107.69.13/947472496
 重庆卫视,http://39.107.69.13/738910914
+重庆卫视,http://61.161.61.119:9004/hls/41/index.m3u8
 东方卫视,http://iptvapi.zqdl.org/migu.php
 东方卫视,http://39.107.69.13/651632648
 东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
@@ -120,6 +120,8 @@ CETV-4,http://39.107.69.13/923287339
 大湾区卫视,http://iptvapi.zqdl.org/migu.php
 大湾区卫视,http://39.107.69.13/608917627
 广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0
+汕头综合,http://129.211.14.102:25000/gdst.php?id=st1&token=www.9kds.com
+汕头经济,http://129.211.14.102:25000/gdst.php?id=st2&token=www.9kds.com
 
 ☘️浙江频道,#genre#
 浙江新闻,https://sdxflive-pc.wasu.cn/sdxf/zhejianggonggongxinwen.m3u8?auth_key=1685203743804-0-0-690ae1cb22bc01f7dba833919ea5a9c1
