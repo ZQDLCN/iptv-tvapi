@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-22 00:08:10,http://iptvapi.zqdl.org/migu.php
+2026-09-22 08:27:12,http://iptvapi.zqdl.org/migu.php
 
 📺央视频道,#genre#
 CCTV-1,http://iptvapi.zqdl.org/migu.php
@@ -14,6 +14,7 @@ CCTV-3,http://219.150.217.41:6610/PLTV1/80/index.m3u8?icpid=dxrm1
 CCTV-4,http://iptvapi.zqdl.org/migu.php
 CCTV-4,http://39.107.69.13/631780421
 CCTV-4,http://219.150.217.41:6610/PLTV1/100/index.m3u8?icpid=dxrm1
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1790056800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-992e2f8eb0e85f6867ac7dfd0f58ad7c&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-5,http://iptvapi.zqdl.org/migu.php
 CCTV-5,http://39.107.69.13/641886683
 CCTV-5,http://219.150.217.41:6610/PLTV1/120/index.m3u8?icpid=dxrm1
@@ -103,7 +104,6 @@ CETV-4,http://39.107.69.13/923287339
 陕西卫视,http://39.107.69.13/738910838
 陕西卫视,http://219.150.217.41:6610/PLTV1/1140/index.m3u8?icpid=dxrm1
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-深圳卫视,http://58.56.162.102:4466/newlive/live/hls/24/live.m3u8
 三沙卫视,http://39.107.69.13/961023778
 西藏卫视,http://219.150.217.41:6610/PLTV1/1640/index.m3u8?icpid=dxrm1
 新疆卫视,http://219.150.217.41:6610/PLTV1/1620/index.m3u8?icpid=dxrm1
