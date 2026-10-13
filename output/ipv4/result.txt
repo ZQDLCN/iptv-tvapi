@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-13 10:48:32,http://iptvapi.zqdl.org/migu.php
+2026-10-14 01:17:14,http://iptvapi.zqdl.org/migu.php
 
 📺央视频道,#genre#
 CCTV-1,http://iptvapi.zqdl.org/migu.php
@@ -14,9 +14,6 @@ CCTV-3,http://219.150.217.41:6610/PLTV1/80/index.m3u8?icpid=dxrm1
 CCTV-4,http://iptvapi.zqdl.org/migu.php
 CCTV-4,http://39.107.69.13/631780421
 CCTV-4,http://219.150.217.41:6610/PLTV1/100/index.m3u8?icpid=dxrm1
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1791885600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-771e3a341aef3a6a1774313ad0141f41&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,http://120.238.84.45:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://120.40.39.246:352/newlive/live/hls/4/live.m3u8
 CCTV-5,http://iptvapi.zqdl.org/migu.php
 CCTV-5,http://39.107.69.13/641886683
 CCTV-5,http://219.150.217.41:6610/PLTV1/120/index.m3u8?icpid=dxrm1
@@ -58,7 +55,6 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89
 CETV-1,http://219.150.217.41:6610/PLTV1/400/index.m3u8?icpid=dxrm1
 CETV-1,http://39.107.69.13/923287154
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
-CETV-1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&down=1
 CETV-2,http://39.107.69.13/923287211
 CETV-4,http://39.107.69.13/923287339
 
@@ -71,7 +67,6 @@ CETV-4,http://39.107.69.13/923287339
 北京卫视,http://39.107.69.13/630287636
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://39.107.69.13/947472496
-湖北卫视,http://120.198.95.220:9901/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&down=1
 重庆卫视,http://39.107.69.13/738910914
 东方卫视,http://iptvapi.zqdl.org/migu.php
 东方卫视,http://39.107.69.13/651632648
