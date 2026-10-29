@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-29 09:27:14,http://iptvapi.zqdl.org/migu.php
+2026-10-30 00:32:06,http://iptvapi.zqdl.org/migu.php
 
 📺央视频道,#genre#
 CCTV-1,http://iptvapi.zqdl.org/migu.php
